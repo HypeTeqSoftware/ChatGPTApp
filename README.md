@@ -12,8 +12,10 @@ ChatGPT 🤖 mobile application bulit using Flutter with Android,iOS support.
 - You can change chatGPT AI model.
 - added RIV animation in home screen.
 
-![cmd](./assets/chatGPT_Flutter.png)
+**Notes**:
+1) Add your Open AI API key in api_constants.dart file.
 
+![cmd](./assets/chatGPT_Flutter.png)
 
 Disclaimer
 - This is purely for learning purposes and does only extend the public ChatGPT API
